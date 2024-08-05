@@ -1,0 +1,39 @@
+.customDiv {
+    background-color: #d5e4f3; /* Match header color */
+    height: 86vh;
+    
+    color: #070707; /* Text color to contrast with background */
+    overflow-y:auto;
+
+    
+      /* Enable vertical scrolling */
+  box-sizing: border-box;
+  .row {
+    height: 100%;
+  }
+  
+   /* Ensure scrolling if content overflows */
+  }
+  li{
+    text-decoration: none;
+  }
+
+  .navigationBar{
+    background-color: #95b4bb;
+    }
+
+
+  
+  h4{
+    margin-left: 15px;
+    padding-top: 15px;
+  }
+  
+  .list li a {
+    text-decoration: none; /* Removes underline from the link */
+    color: inherit; /* Optional: inherits color from parent */
+  }
+
+  
+
+  
